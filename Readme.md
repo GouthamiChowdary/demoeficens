@@ -2,5 +2,5 @@
 ## making changes with remote devolepment on vs code 
 ### adding a new change
 
-# change to resolve merge conflict
+# change to solve merge conflict from branch mini
 exit
